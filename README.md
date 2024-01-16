@@ -1,6 +1,6 @@
 # familly_finance
 
-A new Flutter project.
+Aplikasi pencatat keuangan untuk keluarga
 
 ## Getting Started
 
